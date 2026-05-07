@@ -1,11 +1,12 @@
 # ubuntu
 
-Base Ubuntu image.
+Base Ubuntu image used for building derived Docker images.
 
 ## Base image
 
 - ubuntu:22.04
 
-## Notes
+## Description
 
-This image serves as the base for all derived images.
+This image contains a minimal Ubuntu setup with basic utilities.
+It serves as the root image for all derived images in this repository.
