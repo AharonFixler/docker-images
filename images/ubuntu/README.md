@@ -1,8 +1,11 @@
 # ubuntu
 
-Base Ubuntu image for all derived Docker images.
+Base Ubuntu image.
 
-This image will serve as the base layer for:
-- ubuntu_ssh
-- ubuntu_xrdp
-- ubuntu_ssh_xrdp
+## Base image
+
+- ubuntu:22.04
+
+## Notes
+
+This image serves as the base for all derived images.
